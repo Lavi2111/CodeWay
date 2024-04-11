@@ -2,6 +2,7 @@
    A simple GUI calculator using Python's Tkinter library.
    By: Rajat Gupta
        https://www.linkedin.com/in/rajat-gupta-4aab0324b/
+       https://github.com/Lavi2111/CodeWay/tree/main/Task2_Calculator
 '''
 import tkinter as tk
 
